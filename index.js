@@ -1,1 +1,1 @@
-console.log("1st commit ocnsoles.");
+console.log("1st commit consoles.");
